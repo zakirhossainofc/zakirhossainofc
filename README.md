@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Zakir Hossain</b> and I'm a <b>Data Nerd & Aspiring Data Analyst</b>, currently pursuing my Bachelor's in <b>Sociology at Jagannath University, Bangladesh</b>.</p>
+<p align="left">My name is <b>Zakir Hossain</b> and I'm a <b>Data Nerd & Aspiring Data Analyst</b>, i've completed my Bachelor's in <b>Sociology from Jagannath University, Bangladesh</b>.</p>
 
 ###
 
